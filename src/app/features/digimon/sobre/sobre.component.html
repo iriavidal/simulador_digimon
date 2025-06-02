@@ -1,0 +1,26 @@
+<div class="sobre-container">
+  <h2 class="sobre-titulo">Sobre #{{ numeroSobre }}</h2>
+
+  <div class="cartas-grid">
+    <div
+      *ngFor="let carta of cartas"
+      class="carta-item"
+      (click)="ampliarCarta(carta)"
+    >
+      <figure class="carta-figure">
+        <!-- Muestra el skeleton mientras la imagen no esté cargada -->
+        <app-skeleton-card *ngIf="!carta.imageLoaded"></app-skeleton-card>
+
+        <!-- Muestra la imagen cuando esté cargada -->
+        <img
+          *ngIf="carta.imageUrl"
+          [src]="carta.imageUrl"
+          [alt]="carta.name"
+          class="carta-imagen"
+          (load)="onImageLoad(carta)"
+          [class.hidden]="!carta.imageLoaded"
+        />
+      </figure>
+    </div>
+  </div>
+</div>
