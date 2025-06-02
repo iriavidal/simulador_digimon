@@ -1,0 +1,47 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  gap: 3rem;
+
+  .screen-reader-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  img {
+    width: 70%;
+
+    @media screen and (min-width: 1024px) {
+      width: 40%;
+    }
+  }
+}
+
+.parpadeo {
+  color: var(--azul-oscuro);
+  font-weight: bold;
+  text-shadow: 0 0 30px #fff, 0 0 40px var(--azul-oscuro);
+  animation: brillo 0.8s infinite alternate;
+}
+
+@keyframes brillo {
+  0%,
+  30% {
+    opacity: 0.5;
+    text-shadow: none;
+  }
+  100% {
+    opacity: 1;
+    text-shadow: 0 0 20px #fff, 0 0 30px var(--azul-oscuro);
+  }
+}
