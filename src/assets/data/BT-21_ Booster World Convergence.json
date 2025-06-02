@@ -1,0 +1,947 @@
+[
+  {
+    "name": "Gigimon",
+    "id": "BT21-001",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-001.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Gurimon",
+    "id": "BT21-002",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-002.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Yokomon",
+    "id": "BT21-003",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-003.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Koromon",
+    "id": "BT21-004",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-004.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Swipemon",
+    "id": "BT21-005",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-005.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Tsumemon",
+    "id": "BT21-006",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-006.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Agumon",
+    "id": "BT21-007",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-007.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Elizamon",
+    "id": "BT21-008",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-008.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Elizamon",
+    "id": "BT21-008",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-008_P1.png",
+    "rarity": "R",
+    "alternative": true
+  },
+  {
+    "name": "Gatchmon",
+    "id": "BT21-009",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-009.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Gatchmon",
+    "id": "BT21-009",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-009_P1.png",
+    "rarity": "R",
+    "alternative": true
+  },
+  {
+    "name": "Gammamon",
+    "id": "BT21-010",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-010.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Shoutmon",
+    "id": "BT21-011",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-011.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Flamemon",
+    "id": "BT21-012",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-012.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Agunimon",
+    "id": "BT21-013",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-013.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "BurningGreymon",
+    "id": "BT21-014",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-014.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Cyclonemon",
+    "id": "BT21-015",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-015.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Shoutmon (King Version)",
+    "id": "BT21-016",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-016.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Dimetromon",
+    "id": "BT21-017",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-017.png",
+    "rarity": "u",
+    "alternative": false
+  },
+  {
+    "name": "DoGatchmon",
+    "id": "BT21-018",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-018.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "BetelGammamon",
+    "id": "BT21-019",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-019.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Aldamon",
+    "id": "BT21-020",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-020.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "OmniShoutmon",
+    "id": "BT21-021",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-021.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Canoweissmon",
+    "id": "BT21-022",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-022.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Globemon",
+    "id": "BT21-023",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-023.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Globemon",
+    "id": "BT21-023",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-023_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Cyberdramon",
+    "id": "BT21-024",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-024.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Lamiamon",
+    "id": "BT21-025",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-025.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "WarGreymon",
+    "id": "BT21-026",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-026.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Shoutmon DX",
+    "id": "BT21-027",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-027.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Siriusmon",
+    "id": "BT21-028",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-028.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Medusamon",
+    "id": "BT21-029",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-029.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Medusamon",
+    "id": "BT21-029",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-029_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Medusamon",
+    "id": "BT21-029",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-029_P2.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Shoutmon X7: Superior Mode",
+    "id": "BT21-030",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-030.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Sangomon",
+    "id": "BT21-031",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-031.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Veemon",
+    "id": "BT21-032",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-032.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Floramon",
+    "id": "BT21-033",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-033.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Kiwimon",
+    "id": "BT21-034",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-034.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Flamedramon",
+    "id": "BT21-035",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-035.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Magnamon",
+    "id": "BT21-036",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-036.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Lighdramon",
+    "id": "BT21-037",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-037.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Deramon",
+    "id": "BT21-038",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-038.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Gryphonmon",
+    "id": "BT21-039",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-039.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Agumon",
+    "id": "BT21-040",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-040.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Calendamon",
+    "id": "BT21-041",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-041.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "GeoGreymon",
+    "id": "BT21-042",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-042.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Sociamon",
+    "id": "BT21-043",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-043.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "RizeGreymon",
+    "id": "BT21-044",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-044.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "ShineGreymon",
+    "id": "BT21-045",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-045.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Dracomon (X Antibody)",
+    "id": "BT21-046",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-046.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Navimon",
+    "id": "BT21-047",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-047.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Mushroomon",
+    "id": "BT21-048",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-048.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Woodmon",
+    "id": "BT21-049",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-049.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Cherrymon",
+    "id": "BT21-050",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-050.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Puppetmon",
+    "id": "BT21-051",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-051.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Puppetmon",
+    "id": "BT21-051",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-051_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Puppetmon",
+    "id": "BT21-051",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-051_P2.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Examon (X Antibody)",
+    "id": "BT21-052",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-052.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Examon (X Antibody)",
+    "id": "BT21-052",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-052_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Watchmon",
+    "id": "BT21-053",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-053.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Shotmon",
+    "id": "BT21-054",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-054.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Sunarizamon",
+    "id": "BT21-055",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-055.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Vemmon",
+    "id": "BT21-056",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-056.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Vemmon",
+    "id": "BT21-056",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-056_P1.png",
+    "rarity": "C",
+    "alternative": true
+  },
+  {
+    "name": "Greymon",
+    "id": "BT21-057",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-057.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Snatchmon",
+    "id": "BT21-058",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-058.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Timemon",
+    "id": "BT21-059",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-059.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Destromon",
+    "id": "BT21-060",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-060.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "MetalGreymon",
+    "id": "BT21-061",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-061.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Galacticmon",
+    "id": "BT21-062",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-062.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Galacticmon",
+    "id": "BT21-062",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-062_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Galacticmon",
+    "id": "BT21-062",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-062_P2.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Gumdramon",
+    "id": "BT21-063",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-063.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Guilmon",
+    "id": "BT21-064",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-064.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Ghostmon",
+    "id": "BT21-065",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-065.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Arresterdramon",
+    "id": "BT21-066",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-066.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Garurumon",
+    "id": "BT21-067",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-067.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Growlmon",
+    "id": "BT21-068",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-068.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "GulusGammamon",
+    "id": "BT21-069",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-069.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Gossipmon",
+    "id": "BT21-070",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-070.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Scopemon",
+    "id": "BT21-071",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-071.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Arresterdramon: Superior Mode",
+    "id": "BT21-072",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-072.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Charismon",
+    "id": "BT21-073",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-073.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Satellamon",
+    "id": "BT21-074",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-074.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "SkullGreymon",
+    "id": "BT21-075",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-075.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "WarGrowlmon",
+    "id": "BT21-076",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-076.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Regulusmon",
+    "id": "BT21-077",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-077.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "WereGarurumon",
+    "id": "BT21-078",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-078.png",
+    "rarity": "U",
+    "alternative": false
+  },
+  {
+    "name": "Megidramon",
+    "id": "BT21-079",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-079.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Hiro Amanokawa",
+    "id": "BT21-080",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-080.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Hiro Amanokawa",
+    "id": "BT21-080",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-080_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Owen Dreadnought",
+    "id": "BT21-081",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-081.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Owen Dreadnought",
+    "id": "BT21-081",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-081_P1.png",
+    "rarity": "R",
+    "alternative": true
+  },
+  {
+    "name": "Takuya Kanbara",
+    "id": "BT21-082",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-082.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Takuya Kanbara",
+    "id": "BT21-082",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-082_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Taiki Kudo",
+    "id": "BT21-083",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-083.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Taiki Kudo",
+    "id": "BT21-083",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-083_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Haru Shinkai",
+    "id": "BT21-084",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-084.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Haru Shinkai",
+    "id": "BT21-084",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-084_P1.png",
+    "rarity": "R",
+    "alternative": true
+  },
+  {
+    "name": "Davis Motomiya",
+    "id": "BT21-085",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-085.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Davis Motomiya",
+    "id": "BT21-085",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-085_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Marcus Damon",
+    "id": "BT21-086",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-086.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Marcus Damon",
+    "id": "BT21-086",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-086_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Zenith",
+    "id": "BT21-087",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-087.png",
+    "rarity": "R",
+    "alternative": false
+  },
+  {
+    "name": "Zenith",
+    "id": "BT21-087",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-087_P1.png",
+    "rarity": "R",
+    "alternative": true
+  },
+  {
+    "name": "Tagiru Akashi",
+    "id": "BT21-088",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-088.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Tagiru Akashi",
+    "id": "BT21-088",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-088_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Takato Matsuki",
+    "id": "BT21-089",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-089.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Takato Matsuki",
+    "id": "BT21-089",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-089_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "The Strongest of Brothers",
+    "id": "BT21-090",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-090.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Spirit Evolution!",
+    "id": "BT21-091",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-091.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Can't Turn My Back!",
+    "id": "BT21-092",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-092.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Raging Serpentine",
+    "id": "BT21-093",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-093.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Armor Digivolution",
+    "id": "BT21-094",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-094.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Wind Guardians",
+    "id": "BT21-095",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-095.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "The Champion Ultimate Fighter!",
+    "id": "BT21-096",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-096.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "App Link",
+    "id": "BT21-097",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-097.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Ragnarok Cannon",
+    "id": "BT21-098",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-098.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Xros Up",
+    "id": "BT21-099",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-099.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "The Digimon I Designed",
+    "id": "BT21-100",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-100.png",
+    "rarity": "C",
+    "alternative": false
+  },
+  {
+    "name": "Gaiamon",
+    "id": "BT21-101",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-101.png",
+    "rarity": "SR",
+    "alternative": false
+  },
+  {
+    "name": "Gaiamon",
+    "id": "BT21-101",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-101_P1.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Gaiamon",
+    "id": "BT21-101",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-101_P2.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Tai Kamiya",
+    "id": "BT21-102",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-102.png",
+    "rarity": "SEC",
+    "alternative": false
+  },
+  {
+    "name": "Tai Kamiya",
+    "id": "BT21-102",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-102_P1.png",
+    "rarity": "SEC",
+    "alternative": true
+  },
+  {
+    "name": "Tai Kamiya",
+    "id": "BT21-102",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT21-102_P2.png",
+    "rarity": "SEC",
+    "alternative": true
+  },
+  {
+    "name": "Titamon",
+    "id": "BT6-081",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT6-081_P2.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Omnimon",
+    "id": "BT13-112",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT13-112_P2.png",
+    "rarity": "SEC",
+    "alternative": true
+  },
+  {
+    "name": "WarGreymon (X Antibody)",
+    "id": "BT9-016",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT9-016_P2.png",
+    "rarity": "SR",
+    "alternative": true
+  },
+  {
+    "name": "Agunimon",
+    "id": "BT18-011",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT18-011_P1.png",
+    "rarity": "R",
+    "alternative": true
+  },
+  {
+    "name": "Lanamon",
+    "id": "BT18-023",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/BT18-023_P1.png",
+    "rarity": "C",
+    "alternative": true
+  },
+  {
+    "name": "Beelzemon: Blast Mode",
+    "id": "EX2-074",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/EX2-074_P2.png",
+    "rarity": "SEC",
+    "alternative": true
+  },
+  {
+    "name": "GraceNovamon",
+    "id": "EX5-073",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/EX5-073_P2.png",
+    "rarity": "SEC",
+    "alternative": true
+  },
+  {
+    "name": "Zephagamon",
+    "id": "EX7-036",
+    "imageUrl": "https://world.digimoncard.com/images/cardlist/card/EX7-036_P3.png",
+    "rarity": "SR",
+    "alternative": true
+  }
+]
