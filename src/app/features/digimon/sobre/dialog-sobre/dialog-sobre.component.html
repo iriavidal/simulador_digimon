@@ -1,0 +1,12 @@
+<section>
+  <article>
+    <figure class="carta-figure">
+      <img
+        *ngIf="carta.imageUrl"
+        [src]="carta.imageUrl"
+        [alt]="carta.name"
+        class="carta-imagen"
+      />
+    </figure>
+  </article>
+</section>
