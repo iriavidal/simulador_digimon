@@ -1,0 +1,28 @@
+<div class="contenedor">
+  <h1 class="screen-reader-only">Simulador presentación Digimon TCG</h1>
+
+  <button
+    (click)="abrirSobre()"
+    [disabled]="sobresAbiertos.length >= 24"
+    class="romboide-btn"
+  >
+    Abrir sobre
+  </button>
+
+  <p *ngIf="sobresAbiertos.length >= 24" class="mensaje-error">
+    Ya has abierto los 24 sobres de la caja.
+  </p>
+
+  <div *ngIf="sobresAbiertos.length === 0" class="mensaje-vacio">
+    <p>No se ha abierto ningún sobre todavía.</p>
+  </div>
+
+  <div class="sobres-container">
+    <app-sobre
+      *ngFor="let sobre of sobresAbiertos.slice().reverse(); let i = index"
+      [numeroSobre]="sobresAbiertos.length - i"
+      [cartas]="sobre"
+    >
+    </app-sobre>
+  </div>
+</div>
